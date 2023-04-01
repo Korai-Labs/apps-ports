@@ -1,0 +1,13 @@
+App(
+    appid="LoRA_Terminal",
+    name="LoRA_Terminal",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="lora_terminal_app",
+    requires=["gui"],
+    stack_size=1 * 1024,
+    order=90,
+    fap_icon="lora_terminal.png",
+    fap_category="GPIO",
+    fap_icon_assets="assets",
+    fap_icon_assets_symbol="lora_terminal",
+)
