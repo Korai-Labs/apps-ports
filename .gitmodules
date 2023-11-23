@@ -1,0 +1,48 @@
+[submodule "flipper-stock"]
+	path = flipper-stock
+	url = https://github.com/flipperdevices/flipperzero-good-faps
+[submodule "isolinear"]
+	path = isolinear
+	url = https://github.com/theisolinearchip/flipperzero_stuff
+[submodule "multi-fuzzer"]
+	path = multi-fuzzer
+	url = https://github.com/DarkFlippers/Multi_Fuzzer
+[submodule "fz-iphone-dcsd"]
+	path = fz-iphone-dcsd
+	url = https://github.com/arag0re/fz-iphone-dcsd
+[submodule "flipwire"]
+	path = flipwire
+	url = https://github.com/liamhays/flipwire
+[submodule "Leeds-Flipper-Zero-Applications"]
+	path = Leeds-Flipper-Zero-Applications
+	url = https://github.com/leedave/Leeds-Flipper-Zero-Applications
+[submodule "flipperzero_pomodoro"]
+	path = flipperzero_pomodoro
+	url = https://github.com/sbrin/flipperzero_pomodoro
+[submodule "flipperzero-esp-flasher"]
+	path = flipperzero-esp-flasher
+	url = https://github.com/0xchocolate/flipperzero-esp-flasher
+[submodule "flipperzero-lightmeter"]
+	path = flipperzero-lightmeter
+	url = https://github.com/oleksiikutuzov/flipperzero-lightmeter
+[submodule "ublox"]
+	path = ublox
+	url = https://github.com/liamhays/ublox
+[submodule "flipper-apps"]
+	path = flipper-apps
+	url = https://github.com/lomalkin/flipper-apps
+[submodule "fz_dope"]
+	path = fz_dope
+	url = https://github.com/u0d7i/fz_dope
+[submodule "FlipperZero_Annoying_Apple"]
+	path = FlipperZero_Annoying_Apple
+	url = https://github.com/h0e4a0r1t/FlipperZero_Annoying_Apple
+[submodule "uhf_rfid"]
+	path = uhf_rfid
+	url = https://github.com/frux-c/uhf_rfid
+[submodule "flip_rob"]
+	path = flip_rob
+	url = https://github.com/riney/flip_rob
+[submodule "kb_fuzzer"]
+	path = kb_fuzzer
+	url = https://github.com/n-92/kb_fuzzer
