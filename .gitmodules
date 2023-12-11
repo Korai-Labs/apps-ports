@@ -55,9 +55,6 @@
 [submodule "flipper-canutils"]
 	path = flipper-canutils
 	url = https://github.com/iomonad/flipper-canutils
-[submodule "WIP-flipperzero-DotKiller-fap"]
-	path = WIP-flipperzero-DotKiller-fap
-	url = https://github.com/grugnoymeme/WIP-flipperzero-DotKiller-fap
 [submodule "flipperzero-StepCounter-fap"]
 	path = flipperzero-StepCounter-fap
 	url = https://github.com/grugnoymeme/flipperzero-StepCounter-fap
